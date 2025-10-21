@@ -1,5 +1,10 @@
-# NIE-Graduate-Conference-2025---Poster-Presentation
+**Research Proposal / Theoretical Poster
+**
 
-Work In Progress!
+Title: ZETAS: A Zero Trust Framework for Securing Autonomous Systems with Shared Cyber Attack Surfaces
 
-To be updated soon..
+Authors: Soham Vaidya (MSc Cyber Security, NTU) Anku Adhikari (I²R, ASTAR)
+
+Abstract: Autonomous systems such as robots, autonomous vehicles, drones, IoT devices, etc are increasingly deployed across domains such as smart factories and healthcare. Despite their varied functions, these systems often share a layered architecture and have overlapping functionalities, hence vulnerabilities. Their interconnected deployment enables attackers’ lateral movement, whereby a single compromised component can serve as an entry-point to infiltrate others, significantly amplifying cyber risks. This is where Zero Trust Architecture (ZTA) can be used to counter such threats. However, traditional ZTA implementations require continuous authentication and policy enforcement which can cause increased latency, high computational and power demands in resource-constraint autonomous system. To address these challenges, we propose ZETAS (Zero Trust for Autonomous Systems) — a unified Zero Trust framework tailored specifically for autonomous systems. It incorporates lightweight, quantized AI models for real-time system monitoring, supports optimized mutual attestation using trust models and distributes PDP functionality to reduce latency and eliminate single points of failure. Our architecture integrates ZETAS framework overlayed with the ROS2 middleware architecture, widely used in robotics. The framework is extendable across other heterogeneous autonomous systems to improve resilience, scalability, and operational efficiency, while enhancing the overall security posture of the system. We aim to benchmark the framework’s performance and evaluate its integration with other autonomous system architectures to validate its security effectiveness under real-time operational constraints.
+
+Keywords: zero trust, autonomous systems, ROS2, cybersecurity, smart factories, attack surfaces
