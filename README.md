@@ -1,5 +1,4 @@
-**Research Proposal / Theoretical Poster
-**
+**Research Proposal / Theoretical Poster**
 
 Title: ZETAS: A Zero Trust Framework for Securing Autonomous Systems with Shared Cyber Attack Surfaces
 
